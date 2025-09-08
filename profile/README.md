@@ -38,7 +38,7 @@ At **Plus99**, we believe:
 
 ## 📬 Contact
 
-📧 Email: [team@plus99.ai](mailto:team@plus99.ai)  
+📧 Email: [hi@plus99.ai](mailto:hi@plus99.ai)  
 🌐 Website: [https://plus99.ai](https://plus99.ai)
 
 ---
