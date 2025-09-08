@@ -9,20 +9,21 @@ We build tools, models, and platforms that empower creators, designers, and deve
 
 ## 🚀 What We Do
 
-- 🎨 **Creative AI Tools** – Generate images, logos, music, and copy with ease.
-- 🤖 **Custom AI Models** – Tailored LLMs and vision models for enterprise use.
-- 🧠 **Prompt Engineering & APIs** – Developer-first APIs to integrate creativity into any workflow.
-- 🌐 **Plug & Play Platform** – An intuitive interface for AI-enhanced design, marketing, and branding.
+* 🤝 **AI Consulting & Strategy** – Help businesses implement AI, optimize workflows, and adopt cutting-edge models.
+* 🛠 **AI Tools & Products** – Build custom AI solutions for text, vision, speech, code, and analytics.
+* 🌐 **AI Platforms** – Design and deploy scalable AI platforms for enterprise and startups.
+* 💡 **Open Source Contributions** – Create and maintain high-quality AI libraries and frameworks for the community.
 
 ---
 
 ## 🔧 Tech Stack
 
-- `TypeScript` · `Node.js` · `Python`
-- `Transformers`, `Diffusion Models`, `LLMs`
-- `Next.js`, `Svelte`, `TailwindCSS`
-- `Docker`, `Kubernetes`, `PostgreSQL`, `MongoDB`
-- `OpenAI`, `Stability`, `Replicate`, `Ollama`
+* **Languages & Frameworks:** `TypeScript` · `Node.js` · `Python` · `Go` · `Rust`
+* **AI & ML Tools:** `Transformers` · `Diffusion Models` · `LLMs` · `PyTorch` · `TensorFlow` · `HuggingFace` · `OpenAI` · `Stability AI` · `Replicate` · `Ollama` · `LangChain` · `Pinecone`
+* **Frontend & UI:** `Next.js` · `Svelte` · `React` · `TailwindCSS` · `Framer Motion`
+* **Backend & Databases:** `Docker` · `Kubernetes` · `PostgreSQL` · `MongoDB` · `Redis` · `RabbitMQ`
+* **Infrastructure & DevOps:** `Terraform` · `GitHub Actions` · `CI/CD` · `AWS` · `GCP` · `Azure`
+* **Observability & Logging:** `Prometheus` · `Grafana` · `Loki` · `OpenTelemetry`
 
 ---
 
@@ -32,17 +33,6 @@ At **Plus99**, we believe:
 - Every person has a creative spark.
 - AI should amplify—not replace—human imagination.
 - The future of creativity is collaborative, real-time, and intelligent.
-
----
-
-## 📦 Repos
-
-| Repo | Description |
-|------|-------------|
-| [`plus99-platform`](https://github.com/plus99/plus99-platform) | Web platform for creative AI tools |
-| [`plus99-api`](https://github.com/plus99/plus99-api) | REST & GraphQL APIs for AI generation |
-| [`plus99-models`](https://github.com/plus99/plus99-models) | Custom-trained models & pipelines |
-| [`plus99-designkit`](https://github.com/plus99/plus99-designkit) | UI components & design system |
 
 ---
 
