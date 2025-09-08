@@ -1,7 +1,7 @@
 # Plus99
 
-Welcome to **Plus99** — an AI creativity company pushing the boundaries of imagination and innovation.  
-We build tools, models, and platforms that empower creators, designers, and developers to collaborate with AI effortlessly.
+Welcome to **Plus99** — a full-spectrum AI company transforming ideas into intelligent solutions.
+We provide AI consulting, build custom tools and platforms, and contribute to open-source AI projects, empowering businesses, developers, and creators to innovate with AI seamlessly.
 
 > ⚡ *Creativity, amplified with intelligence.*
 
